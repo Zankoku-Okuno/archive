@@ -1,0 +1,21 @@
+﻿Build started 9/9/2012 10:29:59 PM.
+     1>Project "G:\files for openGL\glDemo\glDemo\glDemo.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\glDemo.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\dev\opengl\glew-1.7.0\include" /IC:\dev\opengl\freeglut\include /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt demo.cpp
+         demo.cpp
+     1>g:\files for opengl\gldemo\gldemo\demo.cpp(130): warning C4305: 'initializing' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\files for openGL\glDemo\Debug\glDemo.exe" /NOLOGO /LIBPATH:"C:\dev\opengl\glew-1.7.0\lib" /LIBPATH:C:\dev\opengl\freeglut\lib glew32.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\glDemo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\files for openGL\glDemo\Debug\glDemo.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\files for openGL\glDemo\Debug\glDemo.lib" /MACHINE:X86 Debug\demo.obj
+         glDemo.vcxproj -> G:\files for openGL\glDemo\Debug\glDemo.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\files for openGL\glDemo\Debug\glDemo.exe;#1" /manifest Debug\glDemo.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\glDemo.unsuccessfulbuild".
+         Touching "Debug\glDemo.lastbuildstate".
+     1>Done Building Project "G:\files for openGL\glDemo\glDemo\glDemo.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.64

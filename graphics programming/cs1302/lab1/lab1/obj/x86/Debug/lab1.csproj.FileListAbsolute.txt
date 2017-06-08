@@ -1,0 +1,12 @@
+C:\Documents and Settings\Okuno Zankoku\My Documents\Visual Studio 2010\Projects\cs1302\lab1\lab1\bin\x86\Debug\Content\mewtwo.xnb
+C:\Documents and Settings\Okuno Zankoku\My Documents\Visual Studio 2010\Projects\cs1302\lab1\lab1\bin\x86\Debug\lab1.exe
+C:\Documents and Settings\Okuno Zankoku\My Documents\Visual Studio 2010\Projects\cs1302\lab1\lab1\bin\x86\Debug\lab1.pdb
+C:\Documents and Settings\Okuno Zankoku\My Documents\Visual Studio 2010\Projects\cs1302\lab1\lab1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Okuno Zankoku\My Documents\Visual Studio 2010\Projects\cs1302\lab1\lab1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Okuno Zankoku\My Documents\Visual Studio 2010\Projects\cs1302\lab1\lab1\obj\x86\Debug\lab1.exe
+C:\Documents and Settings\Okuno Zankoku\My Documents\Visual Studio 2010\Projects\cs1302\lab1\lab1\obj\x86\Debug\lab1.pdb
+C:\Documents and Settings\Okuno Zankoku\My Documents\Visual Studio 2010\Projects\cs1302\lab1\lab1\bin\x86\Debug\lab1.exe.manifest
+C:\Documents and Settings\Okuno Zankoku\My Documents\Visual Studio 2010\Projects\cs1302\lab1\lab1\bin\x86\Debug\lab1.application
+C:\Documents and Settings\Okuno Zankoku\My Documents\Visual Studio 2010\Projects\cs1302\lab1\lab1\obj\x86\Debug\lab1.exe.manifest
+C:\Documents and Settings\Okuno Zankoku\My Documents\Visual Studio 2010\Projects\cs1302\lab1\lab1\obj\x86\Debug\lab1.application
+C:\Documents and Settings\Okuno Zankoku\My Documents\Visual Studio 2010\Projects\cs1302\lab1\lab1\bin\x86\Debug\Content\sans.xnb
